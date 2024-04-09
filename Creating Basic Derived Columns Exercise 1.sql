@@ -1,0 +1,10 @@
+SELECT 
+	   [Person Title] = [FirstName] + ' ' + [LastName] + ' - ' + [PersonType]
+      ,[PersonType]
+      ,[NameStyle]
+      ,[Title]
+      ,[FirstName]
+      ,[MiddleName]
+      ,[LastName]
+      ,[Suffix]
+  FROM [AdventureWorks2019].[Person].[Person]

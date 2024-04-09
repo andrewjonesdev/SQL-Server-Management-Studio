@@ -1,0 +1,1 @@
+SELECT [6 Months From Now] = DATEADD(MONTH, 6, GETDATE())

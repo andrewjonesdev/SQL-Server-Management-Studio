@@ -1,0 +1,1 @@
+SELECT [Current Date] = CAST((GETDATE()-1) AS DATE)

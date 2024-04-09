@@ -1,0 +1,5 @@
+SELECT [Organization Level] = [OrganizationLevel]
+,[Job Title] = [JobTitle]
+,[Hire Date] = [HireDate]
+,[Vacation Hours] = [VacationHours]
+FROM [HumanResources].[Employee]
